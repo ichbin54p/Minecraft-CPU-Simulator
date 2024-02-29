@@ -1,0 +1,29 @@
+[
+    {
+        "id": "ldi",
+        "operands": [
+            "v"
+        ],
+        "execute": [
+            "immediate"
+        ]
+    },
+    {
+        "id": "rst",
+        "operands": [
+            "r"
+        ],
+        "execute": [
+            "register-store"
+        ]
+    },
+    {
+        "id": "rld",
+        "operands": [
+            "r"
+        ],
+        "execute": [
+            "register-load"
+        ]
+    }
+]
