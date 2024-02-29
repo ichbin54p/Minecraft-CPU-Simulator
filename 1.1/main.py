@@ -24,8 +24,6 @@ display = [
 ]
 update_display = False
 
-# input("Warning, this program clears your terminal, are you sure you want to run? (CTRL + C to quit / Enter to start)")
-
 def execute_instruction(id, operand, dp, logsdir):
     global instruction
     global alu_output
