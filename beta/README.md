@@ -37,6 +37,6 @@
 - ### register-store
     description: replace a register (`r`) with reg acc's value
     operands: `r`
-- ## register-load
+- ### register-load
     description: replace reg acc with a register's (`r`) value
     operands: `r`
