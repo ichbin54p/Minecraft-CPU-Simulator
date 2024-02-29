@@ -1,0 +1,51 @@
+[
+    {
+        "id": "ldi",
+        "operands": {
+            "v": 1
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 0
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 1
+        }
+    },
+    {
+        "id": "add",
+        "operands": {
+            "a": 0,
+            "b": 1
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 1
+        }
+    },
+    {
+        "id": "rld",
+        "operands": {
+            "r": 1
+        }
+    },
+    {
+        "id": "pst",
+        "operands": {
+            "p": 0
+        }
+    },
+    {
+        "id": "jmp",
+        "operands": {
+            "v": 3
+        }
+    }
+]
