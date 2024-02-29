@@ -1,0 +1,114 @@
+[
+    {
+        "id": "dwr",
+        "operands": {}
+    },
+    {
+        "id": "dup",
+        "operands": {}
+    },
+    {
+        "id": "ldi",
+        "operands": {
+            "v": 7
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 7
+        }
+    },
+    {
+        "id": "inc",
+        "operands": {
+            "r": 0
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 0
+        }
+    },
+    {
+        "id": "pst",
+        "operands": {
+            "p": 0
+        }
+    },
+    {
+        "id": "dwr",
+        "operands": {}
+    },
+    {
+        "id": "dup",
+        "operands": {}
+    },
+    {
+        "id": "xor",
+        "operands": {
+            "a": 0,
+            "b": 7
+        }
+    },
+    {
+        "id": "bch",
+        "operands": {
+            "f": 0,
+            "v": 4
+        }
+    },
+    {
+        "id": "inc",
+        "operands": {
+            "r": 1
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 1
+        }
+    },
+    {
+        "id": "pst",
+        "operands": {
+            "p": 1
+        }
+    },
+    {
+        "id": "dwr",
+        "operands": {}
+    },
+    {
+        "id": "dup",
+        "operands": {}
+    },
+    {
+        "id": "ldi",
+        "operands": {
+            "v": 0
+        }
+    },
+    {
+        "id": "rst",
+        "operands": {
+            "r": 0
+        }
+    },
+    {
+        "id": "xor",
+        "operands": {
+            "a": 1,
+            "b": 7
+        }
+    },
+    {
+        "id": "bch",
+        "operands": {
+            "f": 0,
+            "v": 0
+        }
+    }
+]

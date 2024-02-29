@@ -1,0 +1,123 @@
+[
+    {
+        "id": "ldi",
+        "operands": [
+            "v"
+        ],
+        "execute": [
+            "load-immediate"
+        ]
+    },
+    {
+        "id": "rst",
+        "operands": [
+            "r"
+        ],
+        "execute": [
+            "register-store",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "rld",
+        "operands": [
+            "r"
+        ],
+        "execute": [
+            "register-load",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "jmp",
+        "operands": [
+            "v"
+        ],
+        "execute": [
+            "jump"
+        ]
+    },
+    {
+        "id": "pst",
+        "operands": [
+            "p"
+        ],
+        "execute": [
+            "port-store",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "pld",
+        "operands": [
+            "p"
+        ],
+        "execute": [
+            "port-load",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "add",
+        "operands": [
+            "a",
+            "b"
+        ],
+        "execute": [
+            "add",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "dwr",
+        "operands": [],
+        "execute": [
+            "display-write"
+        ]
+    },
+    {
+        "id": "dup",
+        "operands": [],
+        "execute": [
+            "display-update"
+        ]
+    },
+    {
+        "id": "dcl",
+        "operands": [],
+        "execute": [
+            "display-clear"
+        ]
+    },
+    {
+        "id": "xor",
+        "operands": [
+            "a",
+            "b"
+        ],
+        "execute": [
+            "xor",
+            "update-flags"
+        ]
+    },
+    {
+        "id": "bch",
+        "operands": [
+            "f",
+            "v"
+        ],
+        "execute": [
+            "branch"
+        ]
+    },
+    {
+        "id": "inc",
+        "operands": [
+            "r"
+        ],
+        "execute": [
+            "increment",
+            "update-flags"
+        ]
+    }
+]

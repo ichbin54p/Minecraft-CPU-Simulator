@@ -1,0 +1,13 @@
+{
+    "speed": 5,
+    "output": {
+        "logs": "logs"
+    },
+    "display": {
+        "hide": false,
+        "ports": {
+            "x": 0,
+            "y": 1
+        }
+    }
+}
